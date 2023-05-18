@@ -1,0 +1,42 @@
+.each-history-element-container {
+  font-family: 'Roboto';
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.date-and-domain-details-container {
+  display: flex;
+  flex-direction: row;
+}
+.time-text {
+  color: #475569;
+  font-weight: bold;
+  margin-right: 70px;
+}
+.domain-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.domain-logo {
+  width: 25px;
+  margin-right: 20px;
+}
+.domain-title {
+  color: #475569;
+  font-weight: bold;
+  margin-right: 15px;
+}
+.domain-url {
+}
+.delete-button {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+}
+.delete-icon {
+}
